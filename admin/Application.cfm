@@ -1,0 +1,1 @@
+<cfapplication name="getone_admin" sessionmanagement="true" clientmanagement="true" datasource="one_pg">

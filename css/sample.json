@@ -1,0 +1,37 @@
+{
+   "postData":{
+      "o365Message":{
+         "body":{
+            "content":"text",
+            "contentType":"Don\u0027t mind if I do"
+         },
+         "bodyPreview":"Don\u0027t mind if I do",
+         "conversationId":"AAQkADMzNDNhMjIwLTRjZDAtNGY0NS05MjgwLWIzZWM0YWU0MmVmYgAQANOtnR1axEqFprxGc15jGeE\u003d",
+         "createdDateTime":"2016-09-07T17:31:17.391Z",
+         "hasAttachments":false,
+         "isReadReceiptRequested":false,
+         "sender":{
+            "emailAddress":{
+               "address":"thomas.williams@nok.one",
+               "userId":"6a1b5aae-0f5a-4cbf-885c-6479434dad48"
+            }
+         },
+         "subject":"This is subjective",
+         "toRecipients":[
+            {
+               "emailAddress":{
+                  "address":"tom@yewglen.com",
+                  "name":"Thomas Williams"
+               }
+            }
+         ]
+      },
+      "o365Extensions":{
+         "Nokia-bell-labs.Com.Oneapp.Message.chatthreadid":"aAQkADMzNDNhMjIwLTRjZDAtNGY0NS05MjgwLWIzZWM0YWU0MmVm-723961765",
+         "Nokia-bell-labs.Com.Oneapp.Message.origclientselectedid":"7f1517IoUHaNAHDSToZzZHir"
+      },
+      "attachments":[
+
+      ]
+   }
+}
